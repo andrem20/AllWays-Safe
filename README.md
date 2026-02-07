@@ -43,13 +43,13 @@ Developed as part of the **Master's in Industrial Electronics and Computers**, i
 
 ### 🚦 Intelligent Traffic Control
 - **Adaptive Signal Timing:** Dynamic configuration based on traffic flow and pedestrian demand
-- **Conflict-Free Scheduling:** Graph-theory-based algorithm ensures safe semaphore configurations
+- **Conflict-Free Scheduling:** Cloud-Bootstrapped Traffic Control System based on graph-theory algorithm ensures correct intersection set-up and handling for **any** cloud configuration
 - **Emergency Priority:** Automatic green-wave for emergency vehicles via DDS communication
 
 ### ♿ Enhanced Accessibility
 - **RFID Card Detection:** Extends crossing time for registered users with disabilities
 - **Button-Based Requests:** Early pedestrian crossing based on demand threshold
-- **Audio Feedback:** Buzzer alerts for safe crossing and emergency situations
+- **Audio Feedback:** Buzzer alerts for safe crossing
 
 ### 🚑 Emergency Vehicle Integration
 - **Fast DDS Communication:** Real-time message publishing to nearby intersections
@@ -111,5 +111,6 @@ This project was developed as part of an academic program at the University of M
 **Built with ❤️ for safer, more accessible roads**
 
 </div>
+
 
 
