@@ -107,8 +107,9 @@ This project was developed as part of an academic program at the University of M
 ---
 
 <div align="center">
-  <p style="font-size: 28px; letter-spacing: 2px;"><em><strong>AllWays be Safe</strong></em></p>
+  <big><big><em><strong>AllWays be Safe</strong></em></big></big>
 </div>
+
 
 
 
