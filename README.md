@@ -12,7 +12,7 @@
 
 </div>
 
-![System](images/system.png)
+![System](Images/system.png)
 
 ---
 
@@ -111,3 +111,4 @@ This project was developed as part of an academic program at the University of M
 **Built with ❤️ for safer, more accessible roads**
 
 </div>
+
