@@ -107,10 +107,9 @@ This project was developed as part of an academic program at the University of M
 ---
 
 <div align="center">
-
-**Built with ❤️ for safer, more accessible roads**
-
+  <p style="font-size: 28px; letter-spacing: 2px;"><em><strong>AllWays be Safe</strong></em></p>
 </div>
+
 
 
 
