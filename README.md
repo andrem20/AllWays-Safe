@@ -67,7 +67,7 @@ Developed as part of the **Master's in Industrial Electronics and Computers**, i
 
 ### Embedded System (Buildroot)
 - **OS:** Custom Linux image (Buildroot)
-- **Language:** C++ (OOP with SOLID principles)
+- **Language:** Mostly C++ (OOP with SOLID principles); C used for Device Drivers
 - **Threading:** POSIX Threads (custom RAII wrappers)
 - **Communication:**
   - **Fast DDS:** Real-time pub/sub messaging
@@ -111,4 +111,5 @@ This project was developed as part of an academic program at the University of M
 **Built with ❤️ for safer, more accessible roads**
 
 </div>
+
 
