@@ -1,0 +1,43 @@
+[
+    {
+        "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+        "destinations": [
+            2,
+            6
+        ],
+        "gpio_green": 3,
+        "gpio_red": 1,
+        "gpio_yellow": 2,
+        "id": "727c8818-f8c1-4154-a259-8ba774d346aa",
+        "location": 3,
+        "name": "TS1",
+        "status": null
+    },
+    {
+        "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+        "destinations": [
+            2,
+            10
+        ],
+        "gpio_green": 6,
+        "gpio_red": 4,
+        "gpio_yellow": 5,
+        "id": "cd8c3528-aa7e-4676-8e84-6c0a85cd7021",
+        "location": 8,
+        "name": "TS2",
+        "status": null
+    },
+    {
+        "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+        "destinations": [
+            7
+        ],
+        "gpio_green": 15,
+        "gpio_red": 13,
+        "gpio_yellow": 14,
+        "id": "dd04641d-7fb0-40f2-8825-b7a96b7e823e",
+        "location": 11,
+        "name": "TS3",
+        "status": null
+    }
+]

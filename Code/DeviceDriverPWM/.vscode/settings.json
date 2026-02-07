@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "utility.h": "c",
+        "module.h": "c",
+        "fs.h": "c",
+        "types.h": "c"
+    }
+}

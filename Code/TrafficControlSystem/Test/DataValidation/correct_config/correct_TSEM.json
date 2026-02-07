@@ -1,0 +1,55 @@
+[
+    {
+    "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+    "destinations": [
+        2,
+        5
+    ],
+    "gpio_green": 5,
+    "gpio_red": 6,
+    "gpio_yellow": 7,
+    "id": "cd8c3528-aa7e-4676-8e84-6c0a85cd7021",
+    "location": 0,
+    "name": "TS2",
+    "status": null
+    },
+    {
+        "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+        "destinations": [
+            9
+        ],
+        "gpio_green": 13,
+        "gpio_red": 14,
+        "gpio_yellow": 15,
+        "id": "727c8818-f8c1-4154-a259-8ba774d346aa",
+        "location": 3,
+        "name": "TS1",
+        "status": null
+    },
+    {
+        "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+        "destinations": [
+            7
+        ],
+        "gpio_green": 16,
+        "gpio_red": 17,
+        "gpio_yellow": 18,
+        "id": "dd04641d-7fb0-40f2-8825-b7a96b7e823e",
+        "location": 6,
+        "name": "TS3",
+        "status": null
+    },
+    {
+        "controlboxid": "chnaged",
+        "destinations": [
+            2
+        ],
+        "gpio_green": 19,
+        "gpio_red": 20,
+        "gpio_yellow": 21,
+        "id": "dd04641d-7fb0-40f2-8825-b7a96b7e823e",
+        "location": 8,
+        "name": "TS3",
+        "status": null
+    }
+]

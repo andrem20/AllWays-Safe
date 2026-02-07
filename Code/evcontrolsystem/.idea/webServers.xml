@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cb4758d8-ebc4-46af-93b2-5d8d27d63b6d" name="Raspberry">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="raspAndre.local" port="22" sshConfigId="1d031632-33b7-49dd-910b-a354fb2f172a" sshConfig="root@raspAndre.local:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

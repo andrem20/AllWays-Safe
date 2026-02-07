@@ -1,0 +1,16 @@
+/home/mariana/Apps/CLion-2024.3.6/clion-2024.3.6/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mariana/Apps/CLion-2024.3.6/clion-2024.3.6/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/home/mariana/buildroot/buildroot-2025.02.8/output/host/bin/aarch64-buildroot-linux-gnu-gcc -DCMAKE_CXX_COMPILER=/home/mariana/buildroot/buildroot-2025.02.8/output/host/bin/aarch64-buildroot-linux-gnu-g++ -G Ninja -S /home/mariana/Desktop/raspProject/RESTful_API -B /home/mariana/Desktop/raspProject/RESTful_API/cmake-build-debug
+-- The CXX compiler identification is GNU 13.4.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/mariana/buildroot/buildroot-2025.02.8/output/host/bin/aarch64-buildroot-linux-gnu-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_C_COMPILER
+
+
+-- Build files have been written to: /home/mariana/Desktop/raspProject/RESTful_API/cmake-build-debug

@@ -1,0 +1,72 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/include/c++/13.4.0",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/include/c++/13.4.0/aarch64-buildroot-linux-gnu",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/include/c++/13.4.0/backward",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/lib/gcc/aarch64-buildroot-linux-gnu/13.4.0/include",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/lib/gcc/aarch64-buildroot-linux-gnu/13.4.0/include-fixed",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/include",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/include"
+					],
+					"linkDirectories" : 
+					[
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/lib/gcc/aarch64-buildroot-linux-gnu/13.4.0",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/lib64",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/sysroot/lib64",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib64",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/lib",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/sysroot/lib",
+						"/home/mariana/buildroot/buildroot-2025.02.8/output/host/aarch64-buildroot-linux-gnu/sysroot/usr/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"m",
+						"gcc_s",
+						"gcc",
+						"c",
+						"gcc_s",
+						"gcc"
+					]
+				},
+				"path" : "/home/mariana/buildroot/buildroot-2025.02.8/output/host/bin/aarch64-buildroot-linux-gnu-g++",
+				"version" : "13.4.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

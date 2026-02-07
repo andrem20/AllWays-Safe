@@ -1,0 +1,3 @@
+/home/mariana/Desktop/raspProject/RESTful_API/cmake-build-debug/CMakeFiles/RESTful_API.dir
+/home/mariana/Desktop/raspProject/RESTful_API/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mariana/Desktop/raspProject/RESTful_API/cmake-build-debug/CMakeFiles/rebuild_cache.dir

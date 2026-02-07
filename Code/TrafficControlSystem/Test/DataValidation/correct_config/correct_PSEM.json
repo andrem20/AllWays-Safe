@@ -1,0 +1,32 @@
+[
+  {
+    "buttonclicks": 0,
+    "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+    "gpio_green": 1,
+    "gpio_red": 2,
+    "id": "3fcb3faf-662f-45bf-bc58-189ebc90e50a",
+    "location": 1,
+    "name": "PS1",
+    "status": null,
+    "hasButton": 1,
+    "hasCardReader": 1,
+    "hasBuzzer": 0,
+    "buttonThreshold": 4,
+    "gpio_button": 22
+  },
+  {
+    "buttonclicks": 0,
+    "controlboxid": "cfc2d011-f8c2-43c9-8ccb-6a30e0f78800",
+    "gpio_green": 3,
+    "gpio_red": 4,
+    "id": "ba54d2f3-bfd3-495f-ad4c-bbc608475cb5",
+    "location": 4,
+    "name": "PS2",
+    "status": null,
+    "hasButton": 0,
+    "hasCardReader": 0,
+    "hasBuzzer": 0,
+    "buttonThreshold": 0,
+    "gpio_button": 0
+  }
+]

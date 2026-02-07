@@ -1,0 +1,8 @@
+@extensibility(APPENDABLE)
+struct EmergencyMSG
+{
+    string sender_id;    
+    octet origin;               
+    octet destination;  
+    octet priority_level;        
+};
